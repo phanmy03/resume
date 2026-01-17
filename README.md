@@ -1,3 +1,3 @@
 # My resume
 
-Checkout at: https://minhtrn98.github.io/resume/
+Checkout at: https://phanmy03.github.io/resume/
